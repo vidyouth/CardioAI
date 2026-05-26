@@ -38,38 +38,6 @@ The project focuses on comparing machine learning models, evaluating performance
 - Evaluated models using ROC-AUC, confusion matrix, precision, recall, and F1-score
 - XGBoost and Random Forest demonstrated high predictive capability on cardiovascular datasets
 
-# Project Screenshots
-
-## ROC Curve Comparison
-
-The ROC curve compares the classification performance of different machine learning models using AUC scores.
-
-![ROC Curve](ROC curve comparison.png)
-
----
-
-## Logistic Regression Confusion Matrix
-
-Visualization of prediction accuracy and classification errors for Logistic Regression.
-
-![Logistic Regression](Logistic Regression - Confusion Matrix.png)
-
----
-
-## Random Forest Confusion Matrix
-
-Confusion matrix generated for the Random Forest classifier.
-
-![Random Forest](Random Forest - Confusion Matrices.png)
-
----
-
-## XGBoost Confusion Matrix
-
-Performance visualization for the XGBoost classification model.
-
-![XGBoost](XGBoost - Confusion Matrices.png)
-
 ## Author
 Vidyuth Baraneetharan
 
